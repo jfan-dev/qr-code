@@ -1,0 +1,2 @@
+# qr-code
+study lessons
